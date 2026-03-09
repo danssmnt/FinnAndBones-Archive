@@ -1,5 +1,5 @@
 <h1 align="center">Finn & Bones HTML5 Archive</h1>
-<h2 align="center">Play it <a href=""><b>here</b></a></h2>
+<h3 align="center">Play it <a href=""><b>here</b></a></h3>
 
 ---
 
