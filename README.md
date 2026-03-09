@@ -30,6 +30,11 @@ The Flash version does have a bit more content though.
 #### Can you guarantee this archive lasts forever?
 Depends on what the legal of Cartoon Network thinks of this. As far as I know (I'm not a lawyer), this archive could be DMCA'd for copyright infringement, so let's hope that doesn't happen lol
 
+## Troubleshooting
+
+#### Game / Menu text is vertically misaligned!
+Allowing the website access to HTML5 canvas image data fixes the issue. On Firefox just press on the top-left image icon and then 'Allow'.
+
 ## Relevant content
 
 Here you can find some links to community driven websites about the game. Check it out!
