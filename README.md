@@ -29,7 +29,10 @@ Maybe one day with enough effort you could deobfuscate the code fully and get so
 There's a diverse number of browser games websites which, to this day, host Finn & Bones and, sure, you can play on them if you want. Do keep in mind most of them (if not all) are crippled with ads / adware, host the Flash version and emulate it with Ruffle (which breaks sometimes), seem to be slower overall and steal and sell your data.
 
 #### Why not just play the Flash version?
-You _can_ still play the Flash version with _[Flashpoint](https://flashpointarchive.org/)_, but it's kinda slow and, besides that, it's always better to have it easily accessible on a browser instead of having to download a whole separate app just to play a game. (I do recommend _[Flashpoint](https://flashpointarchive.org/)_ for playing Flash games though)
+You _can_ still play the Flash version with _[Flashpoint](https://flashpointarchive.org/)_, but it's kinda slow and, besides that, it's always better to have it easily accessible on a browser instead of having to download a whole separate app just to play a game. (I do recommend _[Flashpoint](https://flashpointarchive.org/)_ for playing Flash / HTML5 games though)
+
+#### Then why not just play the HTML5 version with Flashpoint?
+"it's always better to have it easily accessible on a browser instead of having to download a whole separate app just to play a game"
 
 #### Can you guarantee this archive lasts forever?
 Depends on what the Cartoon Network's legal team thinks of this archive. As far as I know (I'm not a lawyer), this archive could be DMCA'd for copyright infringement. If that happens, then yes, I'll be forced to take down this repository.
