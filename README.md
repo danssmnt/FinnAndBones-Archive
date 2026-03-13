@@ -35,7 +35,7 @@ You _can_ still play the Flash version with _[Flashpoint](https://flashpointarch
 "it's always better to have it easily accessible on a browser instead of having to download a whole separate app just to play a game"
 
 #### Can you guarantee this archive lasts forever?
-Depends on what the Cartoon Network's legal team thinks of this archive. As far as I know (I'm not a lawyer), this archive could be DMCA'd for copyright infringement. If that happens, then yes, I'll be forced to take down this repository.
+Depends on what the Cartoon Network's legal team thinks of this archive. As far as I know (I'm not a lawyer), this archive could be DMCA'd for copyright infringement. If that happens, then I'll be forced to take down this repository.
 
 #### How much of my data is sent when I'm on the website?
 To me? None.
