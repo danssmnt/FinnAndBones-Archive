@@ -49,6 +49,9 @@ To Cartoon Network, as far as I know, none too.
 #### Game / Menu text is vertically misaligned!
 Allowing the website access to HTML5 canvas image data fixes the issue. On Firefox just press on the top-left image icon and then 'Allow'.
 
+#### Game softlocks whenever dungeon 8 or 16 is completed!
+It's a bug with the game itself. Refresh the website / Restart the game whenever this happens, you won't lose any progress.
+
 ## Relevant content
 
 Here you can find some links to community driven websites about the game. Check it out!
